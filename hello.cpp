@@ -1,5 +1,5 @@
 int main()
 {
-  cout<<"HELLO WORLD 1";
+  cout<<"HELLO";
   return 0;
 }
